@@ -3,7 +3,7 @@
 # My Contact Info
 
 * **E-mail:** [shkliankam@gmail.com](shkliankam@gmail.com)
-* **Discord:** [bingebooze (@binzegeboo)]
+* **Discord:** bingebooze (@binzegeboo)
 * **GitHub:** [binzegeboo](https://github.com/binzegeboo)
 
 # Summary
